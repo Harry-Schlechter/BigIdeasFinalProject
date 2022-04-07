@@ -1,9 +1,9 @@
 # BigIdeasFinalProject
 Big Ideas in Computing Final project 
 
-one sentence overview 
+Combining three submetrics based on data for median age at death, poor housing conditions, and arrests by incident location in the City of Pittsburgh to create an overall metric that evaluates each neighborhood in Pittsburgh to determine the "best" neighborhood in Pittsburgh.
 
-Team name 
+Group 19
 
 Members: 
 1. Harry Schlechter HLS65@pitt.edu
