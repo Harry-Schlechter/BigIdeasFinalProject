@@ -18,6 +18,4 @@ Dataset (lauren)
 description
 link
 
-Dataset(david)
-description
-link 
+City of Pittsburgh Arrests by Incident Location This dataset shows the arrest data in the various arrests in Pittsburgh counties. It was compiled by the City of Pittsburgh police. It shoes the name of the neighborhood where the incident occured, where the arrest occured, race, sex and a bunch of other information, but for the purpose of the metric only the incident location will be used. https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f
